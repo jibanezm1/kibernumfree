@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    min-width: 500px;
+}
+th.mat-header-cell {
+    text-align: left;
+    max-width: 300px;
+}
+mat-chip.mat-chip.mat-focus-indicator.mat-standard-chip.mat-accent.mat-chip-selected.mat-chip-with-trailing-icon.ng-star-inserted {
+    background-color: #c1b790!important;
+}
+.mat-form-field {
+    display: block!important;
+  
+}
+form.example-form.ng-untouched.ng-pristine.ng-valid {
+    width: 92%;
+}
+.mat-form-field-infix {
+    margin-bottom: 10px!important;
+}
+.mat-select {
+    
+    
+    margin-bottom: 10px;
+}

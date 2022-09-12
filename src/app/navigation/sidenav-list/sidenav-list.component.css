@@ -1,0 +1,15 @@
+a.mat-list-item.mat-focus-indicator {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+mat-card-title.mat-card-title {
+    font-size: 14px;
+}
+
+img.mat-card-sm-image {
+    border-radius: 50%;
+}
+mat-nav-list.list-horizontal {
+    display: flex;
+    flex-direction: row;
+   }
